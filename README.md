@@ -9,13 +9,13 @@ This repository showcases sample websites created using HTML and CSS.
 
 ## Space Station Site
 
-![Portfolio Screenshot](Portfolio-Screenshot/screenshot.png)
+![Portfolio Screenshot](Images/Screenshot1.png)
 
 This page serves as a sample home page for a space travel company. It is styled using CSS and features a navigation bar, image containers, and a form.
 
 ## Movie Theater Site
 
-![Movie Theater Site Screenshot](Cinema-Assignment/screenshot.png)
+![Movie Theater Site Screenshot](Images/Screenshot2.png)
 
 This page is an example home page for a movie theater. It is styled using Bootstrap 4 and incorporates various Bootstrap components such as a navbar, jumbotron, form, cards, and dropdowns.
 
